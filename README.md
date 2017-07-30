@@ -14,16 +14,26 @@ code for data preparation and for randomforrest. For Random_forrest.R, I include
 2) Recheck the structure and replace the missing value.
 3) Data Sampling: I have seperate the data into 2 sets (Training and Testing) with proportion 70:30. 
 4) Build the model by using Random Forrest Technique. From this step, the model did not generate any outcome. I think It because insufficient of the data.
-the unique user are approximately 4000 users and factor which is used are quite limited do to the limitation of time. I thinks some factors
-can be improved by adding some factors like categories of contents the users views in past 7 day, last 2 week, last 30 day, the pattern or the squence of using the app,
-average time spent per visit yesterday, last 7 days last month, or do they used to exit the quit before completing? ect.
+the unique user are approximately 4000 users and factor which is used are quite limited do to the limitation of time. I thinks the model 
+can be improved by adding some factors like 
+  category of contents the users views in past 7 day, 
+  category of contents the users views in past 2 week, 
+  category of contents the users views in past 30 days, 
+  The pattern or the squence of using the app,
+  Average time spent per visit,
+  Average time spent per visit yesterday, 
+  Average time spent per visit past 7 days,
+  Average time spent per visit past 30 days,
+  How many times do they watch the ads?,
+  How mant timer do they quit before completing ?, ect.
+  
 5) Testing the result : This step could not be done because of the error from the previous step. However, I have prepare the code for testing the data
 6) Tuning the model: I have adds some code for generating the tree plot which will help us to consider the optimal number of tree used in random forest.
 7) Final Testing : This step shows how to calculate confusion matrix and shows the variable importants of this models like How many times they are used. 
 
-I think my code quite work well. I have applied Random Forrest with HR_Analytic before (It can be found at my projects repository). 
+I think my code quite work well. I have applied Random Forrest with HR_Analytic before (It can be found at https://github.com/cmajorros/R_Random_Forrest_HR_Analytic). For other projects, they can be found at https://github.com/cmajorros?tab=repositories. 
 
 Thanks and Have a wonderful day.
-Siroros
+Ros
 
 
