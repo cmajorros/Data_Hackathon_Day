@@ -31,7 +31,7 @@ can be improved by adding some factors like
 6) Tuning the model: I have adds some code for generating the tree plot which will help us to consider the optimal number of tree used in random forest.
 7) Final Testing : This step shows how to calculate confusion matrix and shows the variable importants of this models like How many times they are used. 
 
-I think my code quite work well. I have applied Random Forrest with HR_Analytic before (It can be found at https://github.com/cmajorros/R_Random_Forrest_HR_Analytic). For other projects, they can be found at https://github.com/cmajorros?tab=repositories. 
+I think my code quite work well.  I have applied Random Forrest with HR_Analytic before (It can be found at https://github.com/cmajorros/R_Random_Forrest_HR_Analytic). For other projects, they can be found at https://github.com/cmajorros?tab=repositories. 
 
 Thanks and Have a wonderful day.
 Ros
